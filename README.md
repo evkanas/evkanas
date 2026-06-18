@@ -1,4 +1,4 @@
-# Hi, I'm Evaldas 👋
+# Evaldas Jablonskas
 
 Microsoft Dynamics 365 Business Central and Microsoft Dynamics NAV Developer with over 10 years of ERP development experience.
 
