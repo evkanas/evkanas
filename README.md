@@ -1,6 +1,12 @@
 # Evaldas Jablonskas
 
-Microsoft Dynamics 365 Business Central and Microsoft Dynamics NAV Developer with over 10 years of ERP development experience.
+Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ERP development experience.
+
+## Portfolio
+
+- [Business Central Portfolio](https://evkanas.github.io/)
+- [BC Azure Invoice Archive](https://github.com/evkanas/bc-azure-invoice-archive)
+- [BC Reconciliation Acts](https://github.com/evkanas/bc-reconciliation-acts)
 
 ## Expertise
 
