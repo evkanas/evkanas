@@ -7,6 +7,7 @@ Microsoft Dynamics 365 Business Central / NAV Developer with over 10 years of ER
 - [Business Central Portfolio](https://evkanas.github.io/)
 - [BC Azure Invoice Archive](https://github.com/evkanas/bc-azure-invoice-archive)
 - [BC Reconciliation Acts](https://github.com/evkanas/bc-reconciliation-acts)
+- [Lithuanian IBAN Bank Account Autofill](https://github.com/evkanas/business-central-lithuanian-iban-bank-account-autofill)
 
 ## Expertise
 
